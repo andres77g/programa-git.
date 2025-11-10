@@ -1,4 +1,4 @@
 usuario:andre12
-correo:andres12@gmail.com
+correo:andres122@gmail.com
 git push origin master.
 git push origin master.
